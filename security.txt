@@ -1,0 +1,2 @@
+Contact: mailto:security@calhaforte.com
+Encryption: https://calhaforte.com/pgp-key.txt
